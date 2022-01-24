@@ -11,4 +11,4 @@ There are two powerups: the shield and autoswitch.
 The shield saves you from otherwise certain death one time.
 
 ![Autoswitch powerup](src/assets/autoswitch.png)
-The autoswitch, once activated, will automatically match shapes for you for a short time.
+The autoswitch, once activated with space, will automatically match shapes for you for a short time.
