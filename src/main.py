@@ -18,7 +18,7 @@ class Player:
         self.shape = 3
         self.score = 0
         self.hasShield = False
-        self.hasAuto = True
+        self.hasAuto = False
         self.speed = 0
 
     def draw(self):
